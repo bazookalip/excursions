@@ -1,0 +1,50 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+}
+
+h2  {
+  color: gray;
+  font-family: Verdana;
+  font-size: 21px;
+  text-align: center;
+
+}
+
+p {
+  color: aquamarine;
+  text-align: center;
+  text-size: 16px;
+}
+
+.camp {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.app {
+  display: block;
+  margin: auto;
+  width: 50%
+  height: 64px;
+}
+
+video {
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
+}
+
+footer {
+  text-align: right;
+  color: grey;
+}
