@@ -1,5 +1,6 @@
 body {
   background-color: black;
+  text-align: center;
 }
 
 h1 {
@@ -7,20 +8,16 @@ h1 {
   font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
-  text-align: center;
 }
 
 h2  {
   color: gray;
   font-family: Verdana;
   font-size: 21px;
-  text-align: center;
-
 }
 
-p {
+.cta {
   color: aquamarine;
-  text-align: center;
   text-size: 16px;
 }
 
